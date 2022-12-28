@@ -6,7 +6,7 @@
     app:startDestination="@id/mainFragment3">
     <fragment
         android:id="@+id/mainFragment3"
-        android:name="com.example.myapplication.MainFragment"
+        android:name="com.example.myapplication.LoginRegisterFragments.LoginFragment"
         android:label="fragment_main"
         tools:layout="@layout/fragment_main" >
         <action
@@ -18,7 +18,7 @@
     </fragment>
     <fragment
         android:id="@+id/devicesFragment"
-        android:name="com.example.myapplication.DevicesFragment"
+        android:name="com.example.myapplication.mainFragments.DevicesFragment"
         android:label="fragment_devices"
         tools:layout="@layout/fragment_devices" >
         <action
@@ -27,7 +27,7 @@
     </fragment>
     <fragment
         android:id="@+id/roomsFragment"
-        android:name="com.example.myapplication.RoomsFragment"
+        android:name="com.example.myapplication.mainFragments.RoomsFragment"
         android:label="fragment_rooms"
         tools:layout="@layout/fragment_rooms" >
         <action
@@ -36,7 +36,7 @@
     </fragment>
     <fragment
         android:id="@+id/myDevicesFragment"
-        android:name="com.example.myapplication.MyDevicesFragment"
+        android:name="com.example.myapplication.mainFragments.MyDevicesFragment"
         android:label="fragment_my_devices"
         tools:layout="@layout/fragment_my_devices" >
         <action
@@ -45,7 +45,7 @@
     </fragment>
     <fragment
         android:id="@+id/registerFragment"
-        android:name="com.example.myapplication.RegisterFragment"
+        android:name="com.example.myapplication.LoginRegisterFragments.RegisterFragment"
         android:label="fragment_register"
         tools:layout="@layout/fragment_register" >
         <action
@@ -54,17 +54,24 @@
     </fragment>
     <fragment
         android:id="@+id/selectedDeviceFragment"
-        android:name="com.example.myapplication.SelectedDeviceFragment"
+        android:name="com.example.myapplication.secondaryFragments.SelectedDeviceFragment"
         android:label="fragment_selected_device"
-        tools:layout="@layout/fragment_selected_device" />
+        tools:layout="@layout/fragment_selected_device" >
+        <argument
+            android:name="result"
+            app:argType="android.bluetooth.le.ScanResult" />
+    </fragment>
     <fragment
         android:id="@+id/newDeviceFragment"
-        android:name="com.example.myapplication.NewDeviceFragment"
+        android:name="com.example.myapplication.secondaryFragments.NewDeviceFragment"
         android:label="fragment_new_device"
-        tools:layout="@layout/fragment_new_device" />
+        tools:layout="@layout/fragment_new_device" >
+        <argument android:name="scanResult"
+            app:argType="android.bluetooth.le.ScanResult" />
+    </fragment>
     <fragment
         android:id="@+id/selectedRoomFragment"
-        android:name="com.example.myapplication.SelectedRoomFragment"
+        android:name="com.example.myapplication.secondaryFragments.SelectedRoomFragment"
         android:label="fragment_selected_room"
         tools:layout="@layout/fragment_selected_room" />
 </navigation>

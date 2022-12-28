@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.myapplication.secondaryFragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.activity.OnBackPressedCallback
 import androidx.navigation.findNavController
-import com.example.myapplication.databinding.FragmentNewDeviceBinding
+import com.example.myapplication.MainActivity
 import com.example.myapplication.databinding.FragmentSelectedDeviceBinding
 
 class SelectedDeviceFragment : Fragment() {

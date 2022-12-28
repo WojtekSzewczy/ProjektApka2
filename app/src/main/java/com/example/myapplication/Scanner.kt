@@ -6,11 +6,11 @@ import android.bluetooth.le.ScanResult
 import android.bluetooth.le.ScanSettings
 import android.os.Handler
 import android.os.Looper
-import android.os.ParcelUuid
 import android.util.Log
 import androidx.core.content.ContextCompat.getSystemService
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
+import com.example.myapplication.data.ScannedDevice
 
 object Scanner {
 
@@ -64,6 +64,9 @@ object Scanner {
     }
 
     private fun updateScannedDevices() {
+        currentScannedDevices.values.forEach{
+            Log.v("scanner", it.address)
+        }
         _scannedDevices.value = currentScannedDevices.values.toList()
     }
 
