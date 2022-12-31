@@ -16,7 +16,7 @@ import com.example.myapplication.databinding.FragmentMyDevicesBinding
 
 
 class MyDevicesFragment : Fragment() {
-   private lateinit var view :FragmentMyDevicesBinding
+    private lateinit var view :FragmentMyDevicesBinding
     private val adapter = AddedDeviceAdapter()
 
 

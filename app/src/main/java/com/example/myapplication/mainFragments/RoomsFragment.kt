@@ -6,14 +6,23 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.activity.OnBackPressedCallback
+import androidx.fragment.app.viewModels
 import androidx.navigation.Navigation
+import com.example.myapplication.Adapters.AddedDeviceAdapter
+import com.example.myapplication.Adapters.RoomsAdapter
 import com.example.myapplication.MainActivity
+import com.example.myapplication.MainApplication
 import com.example.myapplication.R
 import com.example.myapplication.databinding.FragmentRoomsBinding
+import com.example.myapplication.mainFragments.viewModels.DevicesViewModel
+import com.example.myapplication.mainFragments.viewModels.RoomsViewModel
 
 
 class RoomsFragment : Fragment() {
    private lateinit var view: FragmentRoomsBinding
+    private val adapter = RoomsAdapter()
+    private val viewModel : RoomsViewModel by viewModels()
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -30,9 +39,27 @@ class RoomsFragment : Fragment() {
 
         // Inflate the layout for this fragment
         view = FragmentRoomsBinding.inflate(inflater, container, false)
+        adapter.submitList(MainApplication.rooms)
+
+        view.roomsList.adapter=adapter
+
+        view.addRoomButton.setOnClickListener {
+            viewModel.addRoom()
+        }
+
+        observeViewModelState()
+
 
 
         return view.root
     }
 
+    private fun observeViewModelState() {
+        viewModel.roomsLiveData.observe(viewLifecycleOwner){rooms ->
+            adapter.apply { submitList(rooms) }
+        }
+    }
+
 }
+
+

@@ -93,7 +93,6 @@ object Scanner {
     }
 
     private fun addDevice(device: ScannedDevice) {
-        Log.v("pies",device.address)
         currentScannedDevices[device.address] = device
         updateScannedDevices()
     }

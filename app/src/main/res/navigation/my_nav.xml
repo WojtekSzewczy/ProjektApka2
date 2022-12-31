@@ -73,5 +73,9 @@
         android:id="@+id/selectedRoomFragment"
         android:name="com.example.myapplication.secondaryFragments.SelectedRoomFragment"
         android:label="fragment_selected_room"
-        tools:layout="@layout/fragment_selected_room" />
+        tools:layout="@layout/fragment_selected_room" >
+        <argument
+            android:name="roomID"
+            app:argType="integer" />
+    </fragment>
 </navigation>
