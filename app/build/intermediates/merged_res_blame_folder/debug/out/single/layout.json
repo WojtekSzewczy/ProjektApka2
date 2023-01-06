@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-mergeDebugResources-4:/layout/added_device_layout.xml",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/added_device_layout.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-mergeDebugResources-4:/layout/fragment_register.xml",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-mergeDebugResources-4:/layout/room_layout.xml",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/room_layout.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-mergeDebugResources-4:/layout/scanned_device_layout.xml",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/scanned_device_layout.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-mergeDebugResources-4:/layout/fragment_main.xml",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-mergeDebugResources-4:/layout/fragment_devices.xml",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_devices.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-mergeDebugResources-4:/layout/fragment_my_devices.xml",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_my_devices.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-4:/layout/fragment_rooms.xml",
+        "source": "com.example.myapplication.app-main-7:/layout/fragment_rooms.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-mergeDebugResources-4:/layout/fragment_selected_device.xml",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_selected_device.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-mergeDebugResources-4:/layout/fragment_rooms.xml",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_rooms.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-mergeDebugResources-4:/layout/fragment_new_device.xml",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_new_device.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-mergeDebugResources-4:/layout/fragment_login.xml",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-mergeDebugResources-4:/layout/fragment_selected_room.xml",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_selected_room.xml"
+    }
+]

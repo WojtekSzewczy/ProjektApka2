@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/layout_room_layout.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/room_layout.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/menu_bottom_navigation.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/menu/bottom_navigation.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/layout_added_device_layout.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/added_device_layout.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/layout_fragment_my_devices.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_my_devices.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/layout_fragment_selected_room.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_selected_room.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/drawable_ic_baseline_brightness_1_24.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/drawable/ic_baseline_brightness_1_24.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/layout_fragment_rooms.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_rooms.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/layout_fragment_selected_device.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_selected_device.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/layout_fragment_register.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/layout_fragment_login.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-5:/navigation_my_nav.xml.flat",
+        "source": "com.example.myapplication.app-main-7:/navigation/my_nav.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/navigation_my_nav.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/navigation/my_nav.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/layout_scanned_device_layout.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/scanned_device_layout.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/layout_fragment_new_device.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_new_device.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/layout_fragment_main.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/drawable_ic_baseline_auto_awesome_mosaic_24.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/drawable/ic_baseline_auto_awesome_mosaic_24.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/layout_fragment_devices.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/layout/fragment_devices.xml"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-merged_res-5:/drawable_ic_baseline_build_24.xml.flat",
+        "source": "/Users/woszewcz/AndroidStudioProjects/ble_mesh-android_app/daemon/7.4/com.example.myapplication.app-main-7:/drawable/ic_baseline_build_24.xml"
+    }
+]
